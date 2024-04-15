@@ -131,11 +131,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Cpp\Photos.cpp" />
+    <ClCompile Include="Cpp\Start.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Headers\Main.h" />
     <ClInclude Include="Headers\Photos.h" />
+    <ClInclude Include="Headers\Start.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
