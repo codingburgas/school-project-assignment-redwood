@@ -132,12 +132,14 @@
   <ItemGroup>
     <ClCompile Include="Cpp\Photos.cpp" />
     <ClCompile Include="Cpp\Start.cpp" />
+    <ClCompile Include="Cpp\Team.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Headers\Main.h" />
     <ClInclude Include="Headers\Photos.h" />
     <ClInclude Include="Headers\Start.h" />
+    <ClInclude Include="Headers\Team.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
