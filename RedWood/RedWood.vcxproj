@@ -130,20 +130,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Cpp\MenuStatsTest.cpp" />
     <ClCompile Include="Cpp\Photos.cpp" />
     <ClCompile Include="Cpp\Start.cpp" />
     <ClCompile Include="Cpp\Stats.cpp" />
     <ClCompile Include="Cpp\Team.cpp" />
+    <ClCompile Include="Cpp\MenuStatsTest.cpp" />
+    <ClCompile Include="Cpp\Test.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Headers\Main.h" />
-    <ClInclude Include="Headers\MenuStatsTest.h" />
     <ClInclude Include="Headers\Photos.h" />
+    <ClInclude Include="Headers\Quiz.h" />
     <ClInclude Include="Headers\Start.h" />
     <ClInclude Include="Headers\Stats.h" />
     <ClInclude Include="Headers\Team.h" />
+    <ClInclude Include="Headers\MenuStatsTest.h" />
+    <ClInclude Include="Headers\Test.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

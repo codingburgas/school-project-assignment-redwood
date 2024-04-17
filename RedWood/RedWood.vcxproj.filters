@@ -18,19 +18,22 @@
     <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Cpp\Photos.cpp">
+    <ClCompile Include="Cpp\Start.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Cpp\Start.cpp">
+    <ClCompile Include="Cpp\Photos.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Cpp\Team.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Cpp\MenuStatsTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="Cpp\Stats.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Cpp\MenuStatsTest.cpp">
+    <ClCompile Include="Cpp\Test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -38,19 +41,25 @@
     <ClInclude Include="Headers\Main.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Headers\Photos.h">
+    <ClInclude Include="Headers\Start.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Headers\Start.h">
+    <ClInclude Include="Headers\Photos.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Headers\Team.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Headers\Stats.h">
+    <ClInclude Include="Headers\Quiz.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Headers\MenuStatsTest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Stats.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

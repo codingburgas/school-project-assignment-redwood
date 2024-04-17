@@ -10,7 +10,7 @@ int main()
 	{
 		BeginDrawing();
 
-		Start();
+		Start(); //Start menu and main program 
 
 		EndDrawing();
 	}
