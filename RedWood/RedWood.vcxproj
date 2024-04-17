@@ -130,6 +130,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Cpp\MenuStatsTest.cpp" />
     <ClCompile Include="Cpp\Photos.cpp" />
     <ClCompile Include="Cpp\Start.cpp" />
     <ClCompile Include="Cpp\Stats.cpp" />
@@ -138,6 +139,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Headers\Main.h" />
+    <ClInclude Include="Headers\MenuStatsTest.h" />
     <ClInclude Include="Headers\Photos.h" />
     <ClInclude Include="Headers\Start.h" />
     <ClInclude Include="Headers\Stats.h" />
